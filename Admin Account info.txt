@@ -1,0 +1,7 @@
+Client Id: 1
+NIP: 1111 
+= Pepe
+
+Client Id: 4
+NIP: 0
+= ATM main admin account
